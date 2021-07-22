@@ -1,0 +1,7 @@
+{
+    // "cmake.debugConfig": {
+    //     "stopAtEntry": true,
+    //     "MIMode": "lldb",
+    //     "miDebuggerPath": "/usr/bin/lldb"
+    // }
+}
